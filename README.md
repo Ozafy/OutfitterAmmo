@@ -5,3 +5,6 @@ A small World of Warcraft Classic add-on that lets [Outfitter](https://www.curse
 - Wearing the outfit equips its linked ammo, in combat it waits until combat ends
 - Renaming an outfit keeps its ammo, deleting it removes the link
 - Links are saved per character
+
+# Screenshots
+![Ammo menu](https://raw.github.com/Ozafy/OutfitterAmmo/main/Screenshots/Screenshot.png)
