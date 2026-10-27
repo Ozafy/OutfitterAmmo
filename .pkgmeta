@@ -1,0 +1,5 @@
+package-as: OutfitterAmmo
+ignore:
+  - README.md
+  - Screenshots
+license-output: LICENSE

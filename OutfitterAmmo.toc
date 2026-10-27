@@ -1,0 +1,10 @@
+## Interface: 11509
+## Title: OutfitterAmmo
+## Version: 1.0
+## Author: Ozafy
+## Notes: Lets Outfitter outfits swap your ammo too
+## IconTexture: Interface/Icons/inv_ammo_arrow_02
+## Dependencies: Outfitter
+## SavedVariablesPerCharacter: OutfitterAmmoDB
+## Category: Other
+OutfitterAmmo.lua
